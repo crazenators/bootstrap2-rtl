@@ -5,6 +5,6 @@ Farsi Right-to-left version of [Twitter's Bootstrap](https://github.com/twitter/
 
 Based on:
 
-*	[bootstrap-rtl](https://github.com/donaldducky/bootstrap-rtl)
+* R2 Project (https://github.com/ded/R2)
 
 * BBC Nassim font family
